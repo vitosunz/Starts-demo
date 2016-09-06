@@ -18,6 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    //启动初始化
     [self setupUI];
     
     [self showNewFeatureView];
